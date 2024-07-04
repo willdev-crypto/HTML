@@ -1,2 +1,2 @@
 # 
-Mini Projeto em HTML/CSS.
+HTML/CSS.
